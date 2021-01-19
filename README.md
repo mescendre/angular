@@ -100,4 +100,6 @@ To download Development Environment Variables, run vercel env pull.
 
 18) Renseignez l'adresse automatiquement générée par Vercel : https://angular-git-main.mescendre.vercel.app/
 
-19) 
+19) Au moment du pull request, c'est l'environement preview qui est impacté, Vercel met en commun les deux branches de manière à donner un aperçu de al combinaison des modifications présentes sur les deux branches.
+
+20) Au moment de merge, c'est l'environement de produciton qui est impacté, vercel  se replace dans l'environement de production pour montrer le résultat actuel de l'application
