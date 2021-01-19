@@ -96,4 +96,8 @@ Development
 The Environment Variable is for use when running your project locally, with vercel dev or your preferred development command.
 To download Development Environment Variables, run vercel env pull.
 
-17)
+17) fait depuis github
+
+18) Renseignez l'adresse automatiquement générée par Vercel : https://angular-git-main.mescendre.vercel.app/
+
+19) 
