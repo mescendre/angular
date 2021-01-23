@@ -105,6 +105,7 @@ To download Development Environment Variables, run vercel env pull.
 20) Au moment de merge, c'est l'environement de produciton qui est impacté, vercel  se replace dans l'environement de production pour montrer le résultat actuel de l'application
 
 21) l'environnement de production correspond à la branche principale main), l'intérêt de faire des pull request permet de garder l'affichage du projet à jour sans forcément impacter l'environnement de production
+pour le workflow, la feature passe de développement à visualisation, et si tout est bon à production.
 
 22) 
 permet de déployer des fonctions sans serveur, écrits avec des langages backend qui acceptent une requête HTTP et fournissent une réponse.
